@@ -1,3 +1,3 @@
 @echo off
-pip install termcolor cryptocompare re hashlib GPUtil psutil cpuinfo
+pip install termcolor cryptocompare hashlib GPUtil psutil cpuinfo
 exit
