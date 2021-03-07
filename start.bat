@@ -1,2 +1,2 @@
 @echo off
-py miner.py
+python3.9 miner.py
