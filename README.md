@@ -9,3 +9,6 @@ In developing...
 **Git is required for the installer auto**
 
 *If you install manually git is not required.*
+
+For install auto download installer.bat from the relase 1.0 and start it.
+Then open my-miner folder and open start.bat and the miner will start.
